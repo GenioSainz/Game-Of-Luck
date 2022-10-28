@@ -2,4 +2,5 @@
 
 # Ananimation.mp4
 
-https://github.com/GenioSainz/Game-Of-Luck/blob/fdc4f40bc4945276cdd4fa4ebe2b87c9c21f0822/animation.mp4
+https://user-images.githubusercontent.com/104990289/198678721-25d3002d-4db8-425a-9035-4b2632b0fd02.mp4
+
